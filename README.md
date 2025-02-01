@@ -1,1 +1,1 @@
-# Pong-Game
+A simple two-player Pong game built using Object-Oriented Programming (OOP) and Turtle Graphics. Players control paddles to hit the ball back and forth, utilizing collision detection to bounce off walls and paddles. The game also features event handling for keyboard controls, making it interactive and engaging. Each time a player misses the ball, the opponent scores a point, and the game continues until a winner is determined.
